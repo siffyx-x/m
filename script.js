@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 「はい」ボタンがクリックされた時の処理
     confirmButton.addEventListener('click', () => {
         // の紹介ページ (.html) に直接遷移
-        const nextPageUrl = ‘mk.html';
+        const nextPageUrl = 'mk.html';
         window.location.href = nextPageUrl;
     });
 
